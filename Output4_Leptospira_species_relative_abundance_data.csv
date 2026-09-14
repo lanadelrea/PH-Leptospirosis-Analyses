@@ -1,0 +1,13 @@
+"sample","taxName","taxReads","kmers","total_Leptospira_taxReads","Percent"
+"LS24-009","Leptospira interrogans",264,35146,264,100
+"LS24-010","Leptospira interrogans",533,66466,533,100
+"LS24-015","Leptospira interrogans",27,3677,27,100
+"LS24-039","Leptospira interrogans",11,1145,11,100
+"LS24-098","Leptospira interrogans",2122,209526,2122,100
+"LS24-099","Leptospira interrogans",85,9283,85,100
+"LS24-104","Leptospira borgpetersenii",14,1165,207,6.76328502415459
+"LS24-104","Leptospira interrogans",179,17603,207,86.4734299516908
+"LS24-104","Leptospira kirschneri",14,2314,207,6.76328502415459
+"LS24-109","Leptospira interrogans",36,7434,36,100
+"LS24-110","Leptospira interrogans",102,11392,102,100
+"LS24-115","Leptospira interrogans",612,45365,612,100
