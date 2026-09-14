@@ -1,0 +1,13 @@
+"sample","taxID","taxName","reads","taxReads","kmers","dup","coverage","percent","confidence","passes_filter"
+"LS24-009",173,"Leptospira interrogans",433,264,35146,1.19,0.003346,20.02,"HIGH_CONFIDENCE",TRUE
+"LS24-010",173,"Leptospira interrogans",864,533,66466,1.2,0.006327,15.95,"HIGH_CONFIDENCE",TRUE
+"LS24-015",173,"Leptospira interrogans",32,27,3677,1.05,0.00035,1.451,"HIGH_CONFIDENCE",TRUE
+"LS24-039",173,"Leptospira interrogans",18,11,1145,1.26,0.000109,1.594,"HIGH_CONFIDENCE",TRUE
+"LS24-098",173,"Leptospira interrogans",2250,2122,209526,1.16,0.01995,65.29,"HIGH_CONFIDENCE",TRUE
+"LS24-099",173,"Leptospira interrogans",92,85,9283,1.1,0.0008837,7.221,"HIGH_CONFIDENCE",TRUE
+"LS24-104",173,"Leptospira interrogans",204,179,17603,1.16,0.001676,8.073,"HIGH_CONFIDENCE",TRUE
+"LS24-104",29507,"Leptospira kirschneri",27,14,2314,1.12,0.0005727,1.068,"HIGH_CONFIDENCE",TRUE
+"LS24-104",174,"Leptospira borgpetersenii",14,14,1165,1.25,0.0002318,0.554,"HIGH_CONFIDENCE",TRUE
+"LS24-109",173,"Leptospira interrogans",71,36,7434,1.03,0.0007077,6.685,"HIGH_CONFIDENCE",TRUE
+"LS24-110",173,"Leptospira interrogans",113,102,11392,1.1,0.001084,12.64,"HIGH_CONFIDENCE",TRUE
+"LS24-115",173,"Leptospira interrogans",642,612,45365,1.25,0.004319,20.63,"HIGH_CONFIDENCE",TRUE
