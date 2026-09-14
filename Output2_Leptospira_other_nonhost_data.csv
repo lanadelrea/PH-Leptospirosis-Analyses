@@ -1,0 +1,21 @@
+"sample","category","taxReads","total_nonhost_taxReads","Percent"
+"LS24-009","Leptospira interrogans",264,276,95.6521739130435
+"LS24-009","Other non-host taxa",12,276,4.34782608695652
+"LS24-010","Leptospira interrogans",533,798,66.7919799498747
+"LS24-010","Other non-host taxa",265,798,33.2080200501253
+"LS24-013","Other non-host taxa",73,73,100
+"LS24-015","Leptospira interrogans",27,27,100
+"LS24-017","Other non-host taxa",11,11,100
+"LS24-039","Leptospira interrogans",11,11,100
+"LS24-094","Other non-host taxa",12,12,100
+"LS24-098","Leptospira interrogans",2122,2122,100
+"LS24-099","Leptospira interrogans",85,209,40.6698564593301
+"LS24-099","Other non-host taxa",124,209,59.3301435406699
+"LS24-102","Other non-host taxa",18,18,100
+"LS24-104","Leptospira borgpetersenii",14,235,5.95744680851064
+"LS24-104","Leptospira interrogans",179,235,76.1702127659574
+"LS24-104","Leptospira kirschneri",14,235,5.95744680851064
+"LS24-104","Other non-host taxa",28,235,11.9148936170213
+"LS24-109","Leptospira interrogans",36,36,100
+"LS24-110","Leptospira interrogans",102,102,100
+"LS24-115","Leptospira interrogans",612,612,100
