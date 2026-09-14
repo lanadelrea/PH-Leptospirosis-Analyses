@@ -1,0 +1,25 @@
+"sample","plot_taxon","taxReads","kmers","Percent","is_leptospira"
+"LS24-009","Leptospira interrogans",264,35146,95.6521739130435,TRUE
+"LS24-009","Cutibacterium acnes",12,1290,4.34782608695652,FALSE
+"LS24-010","Leptospira interrogans",533,66466,66.7919799498747,TRUE
+"LS24-010","Acinetobacter ursingii",140,28265,17.5438596491228,FALSE
+"LS24-010","Myroides odoratimimus",115,8839,14.4110275689223,FALSE
+"LS24-010","Cutibacterium acnes",10,1095,1.2531328320802,FALSE
+"LS24-013","Cutibacterium acnes",55,4952,75.3424657534247,FALSE
+"LS24-013","Cutibacterium modestum",18,1351,24.6575342465753,FALSE
+"LS24-015","Leptospira interrogans",27,3677,100,TRUE
+"LS24-017","Cutibacterium acnes",11,1439,100,FALSE
+"LS24-039","Leptospira interrogans",11,1145,100,TRUE
+"LS24-094","Stutzerimonas stutzeri",12,1503,100,FALSE
+"LS24-098","Leptospira interrogans",2122,209526,100,TRUE
+"LS24-099","Enterobacter hormaechei",92,3245,44.0191387559809,FALSE
+"LS24-099","Leptospira interrogans",85,9283,40.6698564593301,TRUE
+"LS24-099","Enterococcus faecalis",32,1920,15.311004784689,FALSE
+"LS24-102","Acinetobacter haemolyticus",18,1229,100,FALSE
+"LS24-104","Leptospira interrogans",179,17603,76.1702127659574,TRUE
+"LS24-104","Methylorubrum populi",28,5920,11.9148936170213,FALSE
+"LS24-104","Leptospira borgpetersenii",14,1165,5.95744680851064,TRUE
+"LS24-104","Leptospira kirschneri",14,2314,5.95744680851064,TRUE
+"LS24-109","Leptospira interrogans",36,7434,100,TRUE
+"LS24-110","Leptospira interrogans",102,11392,100,TRUE
+"LS24-115","Leptospira interrogans",612,45365,100,TRUE
